@@ -110,7 +110,6 @@ body{
     padding-left: 0%;
 }
 
-
 .not-provided {
     display: none;
     position: fixed;
@@ -119,6 +118,10 @@ body{
     transform: translate(-50%, -50%);
   }
 
+.marginst{
+    margin-top: 100px;
+    padding-top: 30px;
+}
 
   
 @media (max-width: 800px) {
