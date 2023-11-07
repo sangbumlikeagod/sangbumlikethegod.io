@@ -3,9 +3,15 @@
 }
 
 body{
-    height: 5000px;
-    /* display: flex;    */
+    /* height: 5000px; */
+    margin-left: 100px;
+    margin-right: 100px;   
+    /* background-color: wheat;    */
 }
+.headers{
+    margin-left: 100px;
+}
+
 .container{
     /* display: flex; */
     /* margin-top: 10; */
@@ -14,8 +20,8 @@ body{
     margin-right: auto;
     max-width: 100%;
     position: relative;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 100px;
+    margin-right: 100px;
     height: inherit;
     /* overflow: hidden;  */
     z-index: 0;
