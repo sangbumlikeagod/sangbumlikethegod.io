@@ -125,11 +125,13 @@ body{
   }
 
 .marginst{
-    margin-top: 100px;
+    /* margin-top: 100px;s */
     padding-top: 30px;
 }
 
-  
+/* .img-thumbnail{
+    background-image: '';
+} */
 @media (max-width: 800px) {
 
     .left{
